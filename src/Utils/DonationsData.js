@@ -1,5 +1,5 @@
 export const donationCategories = [
-  {
+  { 
     value: "",
     label: "Pick a category that suits your item",
     selected: true,
