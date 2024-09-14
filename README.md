@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
 ![Image 1](image.png)
 ![alt text](image-4.png)
 ![alt text](image-2.png)
