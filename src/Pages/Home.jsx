@@ -1,6 +1,6 @@
 import React from "react";
 import backgroundImage from "../assets/noodles.png";
-
+ 
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
