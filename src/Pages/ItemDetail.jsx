@@ -4,7 +4,7 @@ import {
   collectionGroup,
   getDocs,
   serverTimestamp,
-} from "firebase/firestore";
+} from "firebase/firestore"; 
 import React, { useEffect, useState } from "react"; 
 import { useNavigate, useParams } from "react-router-dom";
 import { db } from "../config/firebaseConfig";
