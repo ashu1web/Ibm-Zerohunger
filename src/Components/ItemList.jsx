@@ -4,7 +4,7 @@ const ItemList = ({ pic, name }) => {
   return (
     <div
       className="rounded-0 align-items-center d-flex justify-content-center mx-auto mb-2"
-      style={{
+      style={{ 
         backgroundColor: "rgba(0,0,0,0.3)",
         backgroundBlendMode: "saturation",
         backgroundImage: `url(${pic})`,
