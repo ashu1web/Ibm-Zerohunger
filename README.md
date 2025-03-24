@@ -5,7 +5,7 @@
 ![alt text](image-1.png)
 ![alt text](image-3.png) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
